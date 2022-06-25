@@ -51,3 +51,4 @@ It is based on much of my experience/notes from Astro 201/321 at USAFA, as well 
 * [Scipy Tutorials](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 * [Plotting Tutorial](http://matplotlib.org/users/beginner.html)
 
+modified by Lidan
