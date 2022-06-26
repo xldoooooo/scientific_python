@@ -1,3 +1,4 @@
+modified by Lidan Xu
 ## Scientific Programming with Python
 
 The goal of these lessons is to introduce programming for undergraduates in MAE3145.
